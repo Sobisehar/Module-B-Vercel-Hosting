@@ -1,0 +1,49 @@
+.head{
+  background-color: rgb(241, 238, 238);
+  width: 800px;
+  height: 500px;
+  justify-content: center;
+  margin: auto;
+  padding-left: 50px;
+  padding-top: 40px;
+  margin-top: 80px;
+}
+
+.img{
+  height: 250px;
+  position: absolute;
+}
+
+h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+.lab{
+  position: absolute;
+  right: 400px;
+}
+
+.inp1{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background: none;
+}
+
+.btn{
+  background-color: rgba(0, 0, 255, 0.639);
+  border-radius: 4px;
+  padding: 8px;
+  color: #fff;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid #7777;
+}
+
+.ank1{
+  color: black;
+}
+
+.ank2{
+  color: black;
+}
